@@ -1,3 +1,5 @@
+Paper: ProtoVAE: A Trustworthy Self-Explainable Prototypical Variational Model ([Link](https://api.nva.unit.no/publication/0198cc95ff5b-f641aa57-3fbd-4219-b675-febe66fec021))
+
 # ProtoVAE
 
 ![protovae](images/protovae.png)
